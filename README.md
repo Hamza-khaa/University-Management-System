@@ -53,7 +53,6 @@ Perfect for **academic use**, **learning projects**, or **interview preparation*
    g++ -o university_system main.cpp *.cpp
    ```
 3. Run the executable:
-
    ```bash
   ./university_system
    ```
