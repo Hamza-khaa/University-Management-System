@@ -17,12 +17,12 @@ The project is built around core OOP principles:
 # Features
 
 **Add, view, and manage **students****
-# Add **faculty** and assign **courses**
+** Add **faculty** and assign **courses****
 **Course enrollment** management
 **Library system** for book issuance
 **Attendance tracking** for students
 **Marks and grade** management with **CGPA calculation**
-# Collect and display **feedback**
+** Collect and display **feedback****
 **Address management** for students and faculty
 
 # Technologies Used
