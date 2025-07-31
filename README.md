@@ -16,7 +16,7 @@ The project is built around core OOP principles:
 
 # Features
 
-# Add, view, and manage **students**
+**Add, view, and manage **students****
 # Add **faculty** and assign **courses**
 **Course enrollment** management
 **Library system** for book issuance
